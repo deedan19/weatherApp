@@ -5,6 +5,10 @@
 ## Language 
 - Swift 5
 
+## Target Device
+- iPhone
+- iPad
+
 ## Tools 
 - Xcode 9.3 compatible
 
